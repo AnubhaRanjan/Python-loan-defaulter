@@ -92,9 +92,9 @@ TN=40
 
 **Precision** = TP/(TP+FP) = 78.8%
 
-**Note:** Data file and code file are attached. Data file is in zipped format.
-
 **Recall/Sensitivity** = TP/(TP+FN) = 99.77%
 
 **F1 Score** = 2(p*r)/(p+r) where ‘p’ is precision and ‘r’ is recall= 0.88
+
+**Note:** Data file and code file are attached. Data file is in zipped format.
 
